@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Evoting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_voters_information">Enter Voters Information</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="others">Others</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="choose_date_of_birth">Choose Date of Birth</string>
+    <string name="add_profile_image">Add Profile Image</string>
+    <string name="choose_file">Choose File</string>
+    <string name="submit_credentials">Submit Credentials</string>
+    <string name="processing">Processing...</string>
+    <string name="go_back_to_info">Go Back To Info</string>
+</resources>
